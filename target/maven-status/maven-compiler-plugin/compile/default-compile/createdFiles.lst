@@ -1,0 +1,12 @@
+com/spring/mvcexample/dao/UserDaoImpl.class
+com/spring/mvcexample/practiceAutowiring/MainClass.class
+com/spring/mvcexample/service/UserMapper.class
+com/spring/mvcexample/service/UserService.class
+com/spring/mvcexample/dao/UserMapper.class
+com/spring/mvcexample/model/Login.class
+com/spring/mvcexample/practiceAutowiring/MyBean.class
+com/spring/mvcexample/dao/UserDao.class
+com/spring/mvcexample/service/UserServiceImpl.class
+com/spring/mvcexample/controller/RegistrationController.class
+com/spring/mvcexample/controller/LoginController.class
+com/spring/mvcexample/model/User.class
