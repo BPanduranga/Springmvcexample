@@ -1,7 +1,5 @@
 package com.spring.mvcexample.practiceAutowiring;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 public class MainClass {
 
 	//@Autowired
